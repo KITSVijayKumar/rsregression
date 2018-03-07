@@ -1,0 +1,12 @@
+rsPerfEnv: https://kgfperf.riversand.com/KGFPERF/Login/login.html
+rsSITEnv: https://kfgint.riversand.com/MDMCenter/Login/login.html
+geckoDriverPath: /Users/vijaykumar/Documents/geckodriver
+
+#runMode: PhantomJS
+#runMode: Firefox
+runMode: Chrome
+#runMode: Opera
+
+firefoxBinaryPath: /Applications/Firefox.app/Contents/MacOS/firefox-bin
+phantomjsBinaryPath: /Users/vijaykumar/Documents/phantomjs-2.1.1-macosx/bin
+localDownloadDirectory: /Users/vijaykumar/Desktop
